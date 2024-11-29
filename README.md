@@ -146,9 +146,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ```
 
-### Explanation
-- Markdown uses anchors for navigation within the document. 
-- The headings in the document are automatically converted into anchor IDs. 
-- For example, the heading `### Overview` will be converted to the anchor `#overview`. 
-
-By ensuring the index uses these exact anchor names, clicking on an index item will jump to the corresponding section.
